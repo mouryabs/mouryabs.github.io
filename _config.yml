@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Mourya B S
-title: Senior Network System Administrator
+title: Software Engineer
 email: mourya.bs@gmail.com
 website: https://mouryabs.github.io
 
@@ -39,10 +39,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Photography
+   - Stock Trading
 
 # Footer
 footer_show_references: true
