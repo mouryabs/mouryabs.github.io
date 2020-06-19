@@ -26,14 +26,16 @@ about_profile_image: images/mourya.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi , I'm Mourya. I’m currently doing my Master’s in Software Engineering at Carnegie Mellon University. I did my undergrad in Computer Science and Engineering. Prior, coming to CMU, I worked as a Software Engineer at JPMorgan Chase. During my undergrad days, I interned at Amazon and Indian Space Research Organization in software engineering. I have primarily worked as a backend developer, but I can also work on full stack development, Android, Machine Learning, DevOps, and UI/UX. I’m currently looking for full time Software Engineer roles. 
 
-# Projects Section
-# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
 
 # Education Section
 # educaton_title: Education
+
+# Projects Section
+# projects_title: Projects
+
 
 # More Section
 # more_title: A Little More About Me
