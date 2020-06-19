@@ -6,8 +6,8 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-- Developed applications using Java to process trades, transactions and wire transfers
-- Worked on developing applications using Java to extract, load and transform Mutual Funds and Benchmark data.
-- Created Regression Test Suites using Cucumber and Selenium to overhaul the entire testing process
-- Created CI/CD pipelines in Jenkins using Groovy to automate the build process and continuously deploy and integrate software.
-- Analyzed and fixed various bugs in production environment
+                - Developed applications using Java to process trades, transactions and wire transfers
+                - Worked on developing applications using Java to extract, load and transform Mutual Funds and Benchmark data.
+                - Created Regression Test Suites using Cucumber and Selenium to overhaul the entire testing process
+                - Created CI/CD pipelines in Jenkins using Groovy to automate the build process and continuously deploy and integrate software.
+                - Analyzed and fixed various bugs in production environment
