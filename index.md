@@ -24,7 +24,7 @@ Project Trainee (January 2017 - April 2017)
 
 ### Amazon 
 
-### Software Development Engineer in Test (June 2016 - August 2016)
+Software Development Engineer in Test (June 2016 - August 2016)
 
 - Implemented continuous integration and deployment pipelines to automate the build deployment of Amazon Fire TV
 - Researched and prototyped various techniques for build automation of Amazon Fire TV
