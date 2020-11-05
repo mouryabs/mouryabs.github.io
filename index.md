@@ -40,23 +40,23 @@
 
 ---
 
-# Education
+## Education
 
-## Carnegie Mellon University
+### Carnegie Mellon University
 Master of Software Engineering - (Aug 2019 - June 2020)
 
 ---
 
-## B.M.S College of Engineering
-Bachelor of Engineering, Computer Science and Engineering - (August 2013 - May 2017)
+### B.M.S College of Engineering
+Bachelor of Engineering, Computer Science - (August 2013 - May 2017)
 
 
 ---
 
-# Projects
+## Projects
 
 
-## PathVu 
+### PathVu 
 
 - Developed the Android application to enable collection of sidewalk images, GPS and IMU data
 - Built the Machine Learning pipeline for continuously identifying hazards and classifying sidewalk images
@@ -65,10 +65,15 @@ Bachelor of Engineering, Computer Science and Engineering - (August 2013 - May 2
 - Managed risk and developed the quality plan for the project
 - Setup the CI/CD pipeline for the project and containerized the application using Docker
 
-## Start-up Evaluator
+### Start-up Evaluator
 - Developed the Machine Learning model to predicts the degree of success of startups 
 - Cleaned the data, and extracted the relevant features
 - Performed feature engineering and algorithm tuning of the model
+
+### Tartan Home Platform
+- Implemented the A/B testing framework for gradual feature deployment
+- Created the Machine Learning Model that predicts and identifies patterns of light usage in homes 
+- Setup the deployment infrastructure for the project using Docker and Kubernetes
 
 
 ---
