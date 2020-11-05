@@ -1,60 +1,11 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
-# Personal info
-name: Mourya B S
-title: Software Engineer
-email: mourya.bs@gmail.com
-website: https://mouryabs.github.io
-
-darkmode: true
-
-# Social links
-twitter_username: facespics
-github_username:  mouryabs
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: mourya_bs
-linkedin_username: mouryabs
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-
-# About Section
-# about_title: About Me
-about_profile_image: images/mourya.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi , I'm Mourya. I’m currently doing my Master’s in Software Engineering at Carnegie Mellon University. I did my undergrad in Computer Science and Engineering. Prior, coming to CMU, I worked as a Software Engineer at JPMorgan Chase. During my undergrad days, I interned at Amazon and Indian Space Research Organization in software engineering. I have primarily worked as a backend developer, but I can also work on full stack development, Android, Machine Learning, DevOps, and UI/UX. I’m currently looking for full time Software Engineer roles. 
-
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# Projects Section
-# projects_title: Projects
-
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Photography
-   - Stock Trading 
-
-# Footer
-footer_show_references: true
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
