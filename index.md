@@ -1,13 +1,19 @@
 ## Work Experience
 
-###JPMorgan Chase - Software Engineer 
+### JPMorgan Chase - Software Engineer 
 
 - Developed microservices using Java and Spring Boot to process stock market trades, transactions and wire transfers Built ETL applications using Java for Mutual Funds and Benchmark data
 - Created Regression Test Suites using Cucumber and Selenium to overhaul the entire testing process
 - Implemented CI/CD pipelines using Jenkins and Docker to reduce the deployment time by over 80%
 - Performed root cause analysis and fixed various bugs in production environment
 
-###
+--- 
+
+### India Space Research Organization
+
+- Led a four-member team in building a network management system using Java and SNMP for a network with over 2500 nodes Created a dashboard that provides insights on network information, VLAN traffic, and IP/MAC addresses
+- Published a paper on the same in the Journal of Emerging Technologies and Innovative Research
+
 
 ---
 
