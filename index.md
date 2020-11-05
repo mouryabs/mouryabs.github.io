@@ -40,18 +40,16 @@
 
 ---
 
-### Category Name 1 
+# Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Carnegie Mellon University
+Master of Software Engineering - (Aug 2019 - June 2020)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+## B.M.S College of Engineering
+Bachelor of Engineering, Computer Science and Engineering - (August 2013 - May 2017)
+
 
 ---
 
