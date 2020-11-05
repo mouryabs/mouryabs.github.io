@@ -53,19 +53,25 @@ Bachelor of Engineering, Computer Science and Engineering - (August 2013 - May 2
 
 ---
 
-### Category Name 2
+# Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+## PathVu 
+
+- Developed the Android application to enable collection of sidewalk images, GPS and IMU data
+- Built the Machine Learning pipeline for continuously identifying hazards and classifying sidewalk images
+- Gathered requirements from the client and documented them through Use Cases and Low Fidelity Mockups 
+- Designed the architecture of the system by using the Architecture Centric Design Methodology
+- Managed risk and developed the quality plan for the project
+- Setup the CI/CD pipeline for the project and containerized the application using Docker
+
+## Start-up Evaluator
+- Developed the Machine Learning model to predicts the degree of success of startups 
+- Cleaned the data, and extracted the relevant features
+- Performed feature engineering and algorithm tuning of the model
+
 
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
