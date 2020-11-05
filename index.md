@@ -1,10 +1,10 @@
-# Work Experience
+## Work Experience
 
 --- 
 
-## JPMorgan Chase 
+### JPMorgan Chase 
 
-### Software Engineer (July 2017 - June 2019)
+Software Engineer (July 2017 - June 2019)
 
 - Developed microservices using Java and Spring Boot to process stock market trades, transactions and wire transfers Built ETL applications using Java for Mutual Funds and Benchmark data
 - Created Regression Test Suites using Cucumber and Selenium to overhaul the entire testing process
@@ -13,16 +13,16 @@
 
 --- 
 
-## India Space Research Organization 
+### India Space Research Organization 
 
-### Project Trainee (January 2017 - April 2017)
+Project Trainee (January 2017 - April 2017)
 
 - Led a four-member team in building a network management system using Java and SNMP for a network with over 2500 nodes Created a dashboard that provides insights on network information, VLAN traffic, and IP/MAC addresses
 - Published a paper on the same in the Journal of Emerging Technologies and Innovative Research
 
 ---
 
-## Amazon 
+### Amazon 
 
 ### Software Development Engineer in Test (June 2016 - August 2016)
 
@@ -31,9 +31,9 @@
 
 ---
 
-## Digiapt Technologies 
+### Digiapt Technologies 
 
-### Intern (June 2015 - July 2015)
+Intern (June 2015 - July 2015)
 
 
 - Worked on developing the company website using HTML, JavaScript and CSS
