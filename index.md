@@ -1,6 +1,17 @@
 ## Work Experience
 
 --- 
+### Cerebras Systems 
+
+Member of Technical Staff (Jan 2021 - Present)
+
+- Build, and integrate end to end lifecycles of large scale deep learning models on the Cerebras learning accelerator
+- Train, evaluate, and debug complex language deep learning models such as BERT, GPT2, T5, and Transformers
+- Build software to improve the rate of experimentation, and allows debugging of various deep learning models
+- Identify and evaluate patterns, and solutions to improve performance, maintainability, and elegance of machine learning models
+- Experiment and prototype findings from cutting edge research on the Cerebras machine learning accelerator Collaborate with research scientists,      performance engineers, and kernel engineers to debug complex problems
+ 
+---
 
 ### JPMorgan Chase 
 
@@ -43,7 +54,7 @@ Intern (June 2015 - July 2015)
 ## Education
 
 ### Carnegie Mellon University
-Master of Software Engineering - (Aug 2019 - June 2020)
+Master of Software Engineering - (Aug 2019 - Dec 2020)
 
 ---
 
