@@ -1,6 +1,6 @@
 ## Work Experience
 
-### Cerebras Systems 
+### Sambanova Systems
 
 Senior Machine Learning Engineer (Jun 2024 - Present)
 
