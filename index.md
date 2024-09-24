@@ -1,15 +1,22 @@
 ## Work Experience
 
---- 
 ### Cerebras Systems 
 
-Member of Technical Staff (Jan 2021 - Present)
+Senior Machine Learning Engineer (Jun 2024 - Present)
+
+- Develop and integrate SoTA text and speech into Sambanova ModelZoo
+- Model Delivery and verification
+--- 
+
+### Cerebras Systems 
+
+Member of Technical Staff (Jan 2021 - Jun 2024)
 
 - Build, and integrate end to end lifecycles of large scale deep learning models on the Cerebras learning accelerator
-- Train, evaluate, and debug complex language deep learning models such as BERT, GPT2, T5, and Transformers
-- Build software to improve the rate of experimentation, and allows debugging of various deep learning models
+- Train, evaluate, and debug complex language deep learning models such as GPT3, LLama, BERT etc 
+- Build software to improve the rate of experimentation,debuggability of various deep learning models
 - Identify and evaluate patterns, and solutions to improve performance, maintainability, and elegance of machine learning models
-- Experiment and prototype findings from cutting edge research on the Cerebras machine learning accelerator Collaborate with research scientists,      performance engineers, and kernel engineers to debug complex problems
+- Experiment and prototype findings from cutting edge research on the Cerebras machine learning accelerator, collaborate with research scientists, performance engineers, and kernel engineers to debug complex problems
  
 ---
 
