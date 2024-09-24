@@ -6,6 +6,7 @@ Senior Machine Learning Engineer (Jun 2024 - Present)
 
 - Develop and integrate SoTA text and speech into Sambanova ModelZoo
 - Model Delivery and verification
+
 --- 
 
 ### Cerebras Systems 
