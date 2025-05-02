@@ -4,8 +4,11 @@
 
 Senior Machine Learning Engineer (Jun 2024 - Present)
 
-- Develop and integrate SoTA text and speech into Sambanova ModelZoo
-- Model Delivery and verification
+- Modified and extended open-source ML models such as Gemma2, Qwen2 Audio, and Whisper to resolve compiler incompatibilities and optimize performance for execution on SambaNova hardware.
+- Developed, deployed, and verified the accuracy of  Whisper and Qwen2-Audio inference pipelines in Samba Cloud, enabling speech-to-text and voice reasoning solutions.
+- Developed tools to validate the accuracy of multiple ML models across hardware platforms, ensuring consistent performance between SambaNova systems and conventional ML hardware.
+- Optimized text and multimodal models using advanced techniques such as speculative decoding, quantization, and parallel execution patterns to improve inference speed and efficiency.
+- Conducted performance benchmarking for training, fine-tuning, and inference across SambaNova and various GPU frameworks
 
 --- 
 
@@ -13,11 +16,15 @@ Senior Machine Learning Engineer (Jun 2024 - Present)
 
 Member of Technical Staff (Jan 2021 - Jun 2024)
 
-- Build, and integrate end to end lifecycles of large scale deep learning models on the Cerebras learning accelerator
-- Train, evaluate, and debug complex language deep learning models such as GPT3, LLama, BERT etc 
-- Build software to improve the rate of experimentation,debuggability of various deep learning models
-- Identify and evaluate patterns, and solutions to improve performance, maintainability, and elegance of machine learning models
-- Experiment and prototype findings from cutting edge research on the Cerebras machine learning accelerator, collaborate with research scientists, performance engineers, and kernel engineers to debug complex problems
+- Trained, evaluated, and debugged complex language and vision models such as GPT, BERT, T5, and UNet on the Cerebras CS2 accelerator and ensured that they achieved state-of-the-art convergence.
+- Developed features for the common integration framework built on the Cerebras stack to enable model training, debugging, and numerical analysis.
+- Built the inference, train, and eval workflows for fine-tuning tasks on top of BERT, such as Named Entity Recognition, Sentiment analysis, and Text Summarization.
+- Implemented and integrated CBFloat, a custom floating type implementation for deep neural networks on the Cerebras Platform aimed at reducing model training time.
+- Built tools to enable model sparsification, sparse training, to aid in faster inference, and lower training time.
+- Developed tools for numeric checks that map intermediate activations and weights between various AI accelerators.
+- Built features to enable native training of large 3D images on the Cerebras cluster without the need for sharding or tiling.
+- Debugged performance issues for complex neural networks on the Cerebras Distributed Training Cluster.
+
  
 ---
 
