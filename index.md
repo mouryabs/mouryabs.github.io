@@ -98,13 +98,13 @@ Bachelor of Engineering, Computer Science - (August 2013 - May 2017)
 
 ### Tartan Home Platform
 - Implemented the A/B testing framework for gradual feature deployment
-- Created the Machine Learning Model that predicts and identifies patterns of light usage in homes 
+- Trained the Machine Learning Model that predicts and identifies patterns of light usage in homes 
 - Setup the deployment infrastructure for the project using Docker and Kubernetes
 
 ### Logical Linguists
 
 - Built the Knowledge Base to contain tokenized language data, capable of withholding data for over a million articles 
-- Built the language model to parse questions, and answer questions from the Knowledge Base
+- Trained the language model to parse questions, and answer questions from the Knowledge Base
 - Built the question generator that generates question using NER elements
 
 
