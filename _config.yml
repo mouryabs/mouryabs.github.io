@@ -1,11 +1,11 @@
 title: Mourya Boggarapa # your name (or website title) here
 logo: "/images/DSC_1003.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  ML Engineer at Sambanova, Masters Degree at Carnegie Mellon University's School of Computer Science. I have over 6 years of industry experience. I primarily work on Machine Learning Systems, I also work on back-end systems, mobile app development and UI/UX.
+  ML Engineer at Sambanova, Masters Degree at Carnegie Mellon University's School of Computer Science.I'm a machine learning engineer with 5+ years of experience designing and optimizing training and inference systems at scale. I specialize in building robust ML infrastructure, developing end-to-end pipelines, and debugging complex distributed systems. My work bridges the gap between cutting-edge research and real-world deployment, ensuring models run efficiently, reliably, and at high performance across diverse hardware.
   <br><br>
   I am an avid photographer who likes to shoot landscapes, architecture, and nature.  
   <br><br>
-  <a href="https://www.linkedin.com/in/mouryabs">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mouryabs">iLnkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
